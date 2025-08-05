@@ -62,6 +62,9 @@ Inference was implemented directly in the same `.ipynb` notebook. The notebook i
 
 - Displaying both the input and the generated colored polygon image
 
+  <img width="993" height="339" alt="download" src="https://github.com/user-attachments/assets/3da02968-b81e-4eb6-8bad-14caac934f1e" />
+
+
 ## Key Learnings
 
 - Color conditioning is not trivial — I initially tried using color names as raw strings or indices, but switching to RGB hex codes greatly improved accuracy and consistency.
